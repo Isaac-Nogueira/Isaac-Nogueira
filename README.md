@@ -39,8 +39,6 @@ Sou um estudante de desenvolvimento de sistemas da ETEC da Zona Leste.
 
 📧 **Email:** [nogueiraisaac068@gmail.com](mailto:nogueiraisaac068@gmail.com)
 
----
-
 <style>
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
