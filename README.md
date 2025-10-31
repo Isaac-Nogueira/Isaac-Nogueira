@@ -35,17 +35,6 @@ Sou um estudante de desenvolvimento de sistemas da ETEC da Zona Leste.
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/Isaac-Nogueira">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaacnogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnogueira&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### ✉️ Entre em contato
 
 📧 **Email:** [nogueiraisaac068@gmail.com](mailto:nogueiraisaac068@gmail.com)
